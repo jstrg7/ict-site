@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://img.goodfon.ru/wallpaper/big/6/1a/green-grass-summer-gazon-fon-trava-zelenaia.webp");
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.btn-container{
+    display: flex;
+    gap: 5vw;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 3vh;
+}
+
+img {
+    width: 20vw;
+    height: 20vw;
+}
+
+hr {
+    background-color: white;
+    border: none;
+    height: 0.3vh;
+}
+
+p {
+    font-size: 2vw;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 5vw;
+    text-align: center;
+    color: white;
+}
