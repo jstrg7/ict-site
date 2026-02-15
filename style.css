@@ -34,3 +34,45 @@ body {
     text-align: center;
     color: white;
 }
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1px;
+    align-items: center;
+    font-size: 2vw;
+    background-color: white;
+    width: 90vw;
+    margin: 0;
+    padding-bottom: 3vh;
+}
+
+.h1-info {
+    font-size: 3vw;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+
+.hr-info {
+    background-color: red;
+    border: none;
+    height: 0.3vh;
+    width: 100%;
+}
+
+.img-info{
+    width: 25vw;
+    height: 20vw;
+}
+
+.p-info {
+    text-align: center;
+}
+
+.a-info {
+    color: red;
+    font-weight: bold;
+}
+
