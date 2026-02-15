@@ -11,25 +11,25 @@ body {
     margin-bottom: 3vh;
 }
 
-img {
+.img-main {
     width: 20vw;
     height: 20vw;
 }
 
-hr {
+.hr-main {
     background-color: white;
     border: none;
     height: 0.3vh;
 }
 
-p {
+.p-main {
     font-size: 2vw;
     text-align: right;
     color: white;
     font-weight: bold;
 }
 
-h1 {
+.h1-main {
     font-size: 5vw;
     text-align: center;
     color: white;
